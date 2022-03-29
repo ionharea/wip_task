@@ -1,0 +1,12 @@
+{
+  "ext": "ts, js, json",
+  "ignore": [
+    "node_modules",
+    "ssl",
+    "package-lock.json"
+  ],
+  "delay": 2,
+  "execMap": {
+    "ts": "ts-node"
+  }
+}
